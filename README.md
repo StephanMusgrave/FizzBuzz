@@ -1,5 +1,5 @@
 # Fizzbuzz
-Week 2 test at Makers Academy
+Week 2 test at [Makers Academy]
 
 ## Learning Objectives
 A Ruby program to play the game of FizzBuzz.
@@ -19,5 +19,6 @@ The program was developed by Test Driven Development (TDD) using RSpec
 [Steve Musgrave]
 
 [Steve Musgrave]:https://github.com/StephanMusgrave
+[Makers Academy]:http://www.makersacademy.com
 
 
